@@ -19,6 +19,9 @@ before_install:
   - npm install -g hexo-cli
   - npm install hexo-renderer-pug
   - npm install hexo-renderer-sass
+  - npm install hexo-generator-feed
+
+
 
 # Start: Build Lifecycle
 install:
