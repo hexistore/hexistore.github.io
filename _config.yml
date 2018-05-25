@@ -79,5 +79,5 @@ theme: landscape
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://gh_tokengithub.com/hexistore/hexistore.github.io.git
+  repo: https://gh_token@github.com/hexistore/hexistore.github.io.git
   branch: master
