@@ -20,6 +20,10 @@ before_install:
   - npm install hexo-renderer-pug
   - npm install hexo-renderer-sass
   - npm install hexo-generator-feed
+  - npm install hexo-admin # https://github.com/jaredly/hexo-admin
+  - npm install hexo-admin-ehc
+
+
 
 
 

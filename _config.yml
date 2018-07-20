@@ -8,7 +8,7 @@ subtitle: 河西铺子
 description:
 keywords:
 author: Tenine Liu
-language: zh-cn
+language: zh-Hans
 timezone: Asia/Shanghai
 
 # URL
@@ -88,3 +88,9 @@ deploy:
   type: git
   repo: https://gh_token@github.com/hexistore/hexistore.github.io.git
   branch: master
+
+
+admin:
+  username: lvkasi
+  password_hash: e7a7f7d1f0022af297da76443678b98e
+  secret: a secret something
