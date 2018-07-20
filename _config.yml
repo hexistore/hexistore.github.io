@@ -92,5 +92,5 @@ deploy:
 
 admin:
   username: lvkasi
-  password_hash: e7a7f7d1f0022af297da76443678b98e
+  password_hash: b'$2b$10$cpnCHUldDOfEaTIPdWVjFOR9YndEG/BYATkR2JIMPIM58YglNcRw.'
   secret: a secret something
